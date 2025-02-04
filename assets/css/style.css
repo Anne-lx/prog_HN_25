@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(172, 149, 240, 0.564);
+    font-size: 1.4rem;
+}
+
+
+div {
+    align="center"
+    width: 300px;
+    border: 9px solid rgb(0, 17, 128);
+    padding: 30px;
+    margin: 12px;
+    background-color: rgba(123, 82, 244, 0.564);
+   
+  }
+
+
+
+h1 {
+    color:rgb(0, 132, 255);
+    font-size:30px;
+    text-align:center;
+}
+h2 {
+    color:rgb(0, 13, 255);
+    font-size:24x;
+    text-align:center;
+}
+
+html {
+    background-color: rgba(172, 149, 240, 0.564);
+    font-size: 14px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 10px solid rgba(50, 125, 245, 0.564);
+}
+
+footer {
+    text-align:center;
+}
